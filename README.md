@@ -1,2 +1,1 @@
-# practice
-angular学习
+# angular学习总结
